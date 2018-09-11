@@ -1,0 +1,10 @@
+C:\Users\mkaan\source\repos\HtmlBookCreator\HtmlBookCreator\bin\Debug\HtmlBookCreator.exe.config
+C:\Users\mkaan\source\repos\HtmlBookCreator\HtmlBookCreator\bin\Debug\HtmlBookCreator.exe
+C:\Users\mkaan\source\repos\HtmlBookCreator\HtmlBookCreator\bin\Debug\HtmlBookCreator.pdb
+C:\Users\mkaan\source\repos\HtmlBookCreator\HtmlBookCreator\obj\Debug\HtmlBookCreator.csprojAssemblyReference.cache
+C:\Users\mkaan\source\repos\HtmlBookCreator\HtmlBookCreator\obj\Debug\HtmlBookCreator.Form1.resources
+C:\Users\mkaan\source\repos\HtmlBookCreator\HtmlBookCreator\obj\Debug\HtmlBookCreator.Properties.Resources.resources
+C:\Users\mkaan\source\repos\HtmlBookCreator\HtmlBookCreator\obj\Debug\HtmlBookCreator.csproj.GenerateResource.cache
+C:\Users\mkaan\source\repos\HtmlBookCreator\HtmlBookCreator\obj\Debug\HtmlBookCreator.csproj.CoreCompileInputs.cache
+C:\Users\mkaan\source\repos\HtmlBookCreator\HtmlBookCreator\obj\Debug\HtmlBookCreator.exe
+C:\Users\mkaan\source\repos\HtmlBookCreator\HtmlBookCreator\obj\Debug\HtmlBookCreator.pdb
