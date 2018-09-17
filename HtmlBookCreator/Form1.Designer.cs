@@ -107,6 +107,7 @@
             this.btnIceAktar.TabIndex = 6;
             this.btnIceAktar.Text = "Sayfaları İçe Aktar";
             this.btnIceAktar.UseVisualStyleBackColor = true;
+            this.btnIceAktar.Click += new System.EventHandler(this.btnIceAktar_Click);
             // 
             // Form1
             // 
